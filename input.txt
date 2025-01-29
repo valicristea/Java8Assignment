@@ -1,0 +1,6 @@
+Andrei,Popescu,1988-12-23
+Ivana,Rus,2002-10-17
+Mihai,Georgescu,1996-08-02
+Elena,Ceausescu,1948-08-15
+Nicolae,Ceausescu,1932-06-12
+Vlad,Tepes,1980-04-03
