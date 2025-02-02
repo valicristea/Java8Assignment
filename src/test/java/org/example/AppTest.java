@@ -15,9 +15,6 @@ import java.util.List;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
-/**
- * Unit test for simple App.
- */
 @RunWith(JUnit4.class)
 public class AppTest {
     private static final String TEST_INPUT = "testInput.txt";
